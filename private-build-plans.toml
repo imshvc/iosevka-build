@@ -1,0 +1,20 @@
+# Iosevka Private build plans
+# Authored by: Nurudin Imsirovic <imshvc>
+# Created: 2024-12-30 09:45 PM
+# Updated: 2024-12-30 09:45 PM
+
+[buildPlans.IosevkaSansNL]
+family = "Iosevka Sans NL"
+spacing = "normal"
+serifs = "sans"
+noCvSs = true
+exportGlyphNames = false
+noLigation = true
+
+[buildPlans.IosevkaSlabNL]
+family = "Iosevka Slab NL"
+spacing = "normal"
+serifs = "slab"
+noCvSs = true
+exportGlyphNames = false
+noLigation = true
